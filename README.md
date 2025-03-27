@@ -1,4 +1,4 @@
 # AI-Demo
 My AI demo
 <br>
-Author Vishkii
+Author Vishkii (AI-Demo)
